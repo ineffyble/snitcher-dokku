@@ -1,0 +1,1 @@
+Snitcher.snitch(ENV["SNITCH"])
